@@ -1,0 +1,33 @@
+p{
+    color: brown;
+}
+
+.head1{
+    color: darkgoldenrod;
+}
+
+#tag{
+    color: chartreuse;
+}
+#id{
+    color: deepskyblue;
+}
+#class{
+    color: deeppink;
+}
+
+body{
+    background-color: rgb(149, 143, 188);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#p1{
+    color: rgb(25, 0, 139);
+}
+#p2{
+    color: rgb(255, 37, 55);
+}
+button{
+    color: darkmagenta;
+    background-color: cadetblue;
+}

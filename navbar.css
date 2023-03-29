@@ -1,0 +1,21 @@
+.navbar{
+    background-color: rgb(242, 206, 151);
+    height: 5%;
+    padding: 10px;
+}
+ul{
+    list-style-type: none;
+    float: right;
+    
+}
+li{
+    
+    display: inline;
+    padding: 10px;
+      
+}
+a{
+    text-decoration: none;
+    color: black;
+
+}

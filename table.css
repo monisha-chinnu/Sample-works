@@ -1,0 +1,26 @@
+table{
+    border-width: 5px;
+    border-style: outset;
+    padding: 2px;
+    border-color: black;
+}
+th{
+    border-width: 3px;
+    border-style: outset;
+    padding: 2px;
+    border-color: rgb(40, 189, 27);
+}
+td:hover{
+    border-width: 2px;
+    border-style: groove;
+    padding: 2px;
+    border-color: blueviolet;
+}
+text{
+    color: aqua;
+}
+tr:nth-child(even){
+    background-color: burlywood;
+    
+
+}

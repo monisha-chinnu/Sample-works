@@ -1,0 +1,87 @@
+h2{
+    color: rgb(17, 101, 185);
+    text-align: center;
+}
+.box{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(252, 251, 255);
+    text-align: center;
+}
+.name{
+    padding: 10px;
+    margin-left: 25px;
+
+}
+.age{
+    padding: 10px;
+    margin-left: 100px;
+}
+.gender{
+    padding: 10px;
+    margin-left: 120px;
+}
+.address{
+    padding: 10px;
+    margin-left: 70px;
+}
+.no{
+    padding: 10px;
+    margin-left: 32px;
+}
+.fathername{
+    padding: 10px;
+    margin-left: 47px;
+}
+.fatherno{
+    padding: 10px;
+    margin-left: 30px;
+}
+.mothername{
+    padding: 10px;
+    margin-left: 40px;
+}
+.motherno{
+    padding: 10px;
+    margin-left: 30px;
+}
+.education{
+    padding: 10px;
+    margin-left: 100px;
+
+}
+.highersecondaryschool{
+    padding: 10px;
+    margin-right: 45px;
+}
+.totalpercentage{
+    padding: 10px;
+    margin-left: 15px;
+}
+.totalmark{
+    padding: 10px;
+    margin-left: 55px;
+}
+.entrancemark{
+    padding: 10px;
+    margin-left: 25px;
+}
+.applycourse1{
+    padding: 10px;
+    margin-left:165px;
+}
+.applycourse2{
+    padding: 10px;
+    margin-left:1px;
+}
+.applycourse3{
+    padding: 10px;
+    margin-left:1px;
+}
+.submit{
+    padding: 5px;
+    background-color: rgb(239, 4, 133);
+    color: antiquewhite;
+    border-radius: 50.25%;
+    border-color: transparent;
+    border-width: 10px;
+}
